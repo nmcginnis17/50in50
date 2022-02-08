@@ -1,7 +1,3 @@
-# 50in50
-Javascript 50 projects in 50 days
+View Demo:
 
-Tutorials from Brad Traversy, & Florin Pop
-
-View live demos:
-http://www.NicholasMcGinnis.com/50in50
+http://www.nicholasmcginnis.com/50in50/28%20-%20Github%20Profiles/index.html
