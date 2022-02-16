@@ -21,7 +21,9 @@ h1 {
   height: 15%;
   margin: 0;
   padding: 0;
-  top: 5px;
+  top: 0;
+  left: 0;
+  border-bottom: 2px dashed #000;
   z-index: 100;
 }
 
