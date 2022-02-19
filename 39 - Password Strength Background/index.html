@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Password Strength Background</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.0/css/all.min.css" integrity="sha512-BnbUDfEUfV0Slx6TunuB042k9tuKe3xrD6q4mg5Ed72LTgzDIcLPxg6yI2gcMFRyomt+yJJxE+zJwNmxki6/RA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/tailwindcss/2.2.19/tailwind.min.css" referrerpolicy="no-referrer" />
+    <link rel="stylesheet" href="styles.css">
+  </head>
+  <body>
+
+    <div class="background" id="background"></div>
+    <div class="bg-white rounded p-10 text-center shadow-md">
+      <h1 class="text-3xl">Image Password Strength</h1>
+      <p class="text-sm text-gray-700">
+        Change the password to see the effect
+      </p>
+      <div class="my-4 text-left">
+        <label for="email" class="text-gray-900">Email</label>
+        <input type="text" class="border block w-full p-2 mt-2 rounded" id="email" placeholder="you@email.com">
+      </div>
+      <div class="my-4 text-left">
+        <label for="password" class="text-gray-900">Email</label>
+        <input type="password" class="border block w-full p-2 mt-2 rounded" id="password" placeholder="*********">
+      </div>
+      <button type="submit" class="bg-black text-white py-2 mt-4 inline-block w-full rounded">Submit</button>
+    </div>
+
+    <script src="scripts.js"></script>
+  </body>
+</html>
