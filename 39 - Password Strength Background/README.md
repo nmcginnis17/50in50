@@ -1,3 +1,3 @@
 View Demo:
 
-http://www.nicholasmcginnis.com/50in50/38%20-%20Mobile%20Tab%20Navigation/index.html
+http://www.nicholasmcginnis.com/50in50/39%20-%20Password%20Strength%20Background/index.html
